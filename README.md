@@ -9,7 +9,6 @@ Introduction
   
   > The "special" collection workflow is design to highlight our collection strenghths and historical identity by selecting specimen sets with unique characteristics (ie. Philadelphia Insect Collection, Crane Fly Database, etc.) This workflow attempts to make our sizeable collection digestable in the data entry sense, but don't worry - your entire co-op won't be plugging data into a spreadsheet! 
   
-  > With this in mind, we hope you will explore the Symbiota platform and develop additional modules/keys/ideas for future implementation. I encourage you to explore your skill set and create a unique project for yourself during your 6-months here. Below you will find useful links and material that you should (must) read to be successful at this co-op. Good luck and have fun!
+  > With this in mind, we hope you will explore the Symbiota platform and develop additional modules/keys/ideas for future implementation. I encourage you to explore your skill set and create a unique project for yourself during your 6-months here. On the wiki you will find useful links and material that you should (must) read to be successful at this co-op. Good luck and have fun!
   
-  asdfasdf
-  adsfgasd
+Wiki links are located to the right of this page.
