@@ -21,5 +21,12 @@ With a collection as large as ours, you will likely run into many questions abou
 
 [Encyclopedia of Life](http://www.eol.org/)
 
+### About Databases
+Surprisingly, many researchers rely on software such as Microsoft Excel to manage and store information about collecting events. This is a bad practice as Excel files can become corrupted, be accidentally deleted, and a generally prone to data entry mistakes. Additionally data in an Excel sheet is very "flat" this means that although you may be able to relate something as a row or column there is nothing tying each field together - you can easily move data around from column to column or row to row - intentionally, or accidentally. 
+
+Our specimen database runs from a package known as Symbiota, a database system used by many other institutions. More technically, it has either a mySQL or MariaDB DDL/DML backbone with HTML, JavaScript, and PHP interacting to construct a front end for users. For data entry purposes, you don't have to worry about any of that.
+
+### Entering Data into Symbiota
+
 
 
