@@ -6,6 +6,8 @@ Repository for ANSP Entomology database. Intended for use by lab volunteers and 
 ### Specimen Database Location
 To access the specimen database [click here](http://symbiont.ansp.org/ent_symbiota/)
 
+To access the species index [click here](http://symbiont.ansp.org/entomology/)
+
 ### Helpful Links 
 With a collection as large as ours, you will likely run into many questions about digitization best practices, data standards, and general database issues. I've included a small reference library of links below to help you navigate some commonplace issues regarding specimen digitization.
 
